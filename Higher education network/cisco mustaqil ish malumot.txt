@@ -1,0 +1,7 @@
+NAT protocoli:
+https://www.computernetworkingnotes.com/ccna-study-guide/how-to-configure-static-nat-in-cisco-router.html
+
+VPN protocol :
+https://linuxtiwary.com/2016/03/26/vpn-configuration-lab-using-routers-in-cisco-packet-tracer/
+
+asa
